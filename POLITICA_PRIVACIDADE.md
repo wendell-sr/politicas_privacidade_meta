@@ -1,40 +1,25 @@
 # Política de Privacidade
 
-Esta Política de Privacidade descreve como coletamos, usamos e protegemos as informações pessoais que você fornece ao usar nosso aplicativo Meta. Ao utilizar nosso aplicativo, você concorda com a coleta e uso de informações de acordo com esta política.
+## Introdução
+Esta Política de Privacidade explica como coletamos, usamos e protegemos as suas informações pessoais quando você utiliza nossos serviços.
 
-## 1. Informações que Coletamos
+## Dados Processados
+Coletamos vários tipos de dados, incluindo:
+- Informações de identificação pessoal (como nome, endereço de e-mail)
+- Dados de uso (incluindo informações sobre como você utiliza nosso site)
 
-Podemos coletar as seguintes informações:
-- Nome
-- Endereço de e-mail
-- Informações de uso (como tempo de uso, interação com o aplicativo, etc.)
+## Conformidade com a LGPD
+Nosso compromisso é garantir a conformidade com a Lei Geral de Proteção de Dados (LGPD). Isso inclui:
+- A transparência sobre o uso dos dados.
+- O direito do usuário de acessar, corrigir ou excluir suas informações pessoais.
 
-## 2. Como Usamos Suas Informações
+## Cookies
+Utilizamos cookies para melhorar a sua experiência em nosso site. Os cookies ajudam a:
+- Lembrar suas preferências.
+- Analisar o tráfego do site. 
+- Personalizar conteúdos e anúncios.
 
-Usamos as informações coletadas para:
-- Melhorar a experiência do usuário
-- Enviar notificações e atualizações sobre o aplicativo
-- Analisar o uso do aplicativo e realizar melhorias
+Você pode controlar os cookies através das configurações do seu navegador.
 
-## 3. Compartilhamento de Informações
-
-Não vendemos, trocamos ou de outra forma transferimos suas informações pessoais a terceiros, exceto conforme exigido por lei ou com seu consentimento.
-
-## 4. Segurança das Informações
-
-Adotamos medidas de segurança apropriadas para proteger suas informações pessoais de acesso não autorizado, alteração ou destruição.
-
-## 5. Seus Direitos
-
-Você tem o direito de acessar, corrigir ou excluir suas informações pessoais a qualquer momento. Para fazer isso, entre em contato conosco através do endereço de e-mail fornecido abaixo.
-
-## 6. Alterações a Esta Política
-
-Podemos atualizar nossa Política de Privacidade periodicamente. Informaremos sobre quaisquer mudanças publicando a nova política neste espaço. Recomendamos que você reveja periodicamente esta Política para mantenerse informado sobre como protegemos suas informações.
-
-## 7. Contato
-
-Se você tiver dúvidas sobre esta Política de Privacidade, entre em contato conosco:
-- E-mail: contato@metaapp.com
-
-**Data de vigência: 2026-01-20**
+## Privacidade das Crianças
+Estamos comprometidos em proteger a privacidade das crianças. Não coletamos intencionalmente informações de crianças menores de 13 anos. Se souber que coletamos dados de uma criança, entre em contato conosco imediatamente para que possamos tomar as medidas necessárias para remover essas informações.
